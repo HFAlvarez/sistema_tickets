@@ -1,0 +1,19 @@
+Inicio de sesión Administrador
+
+Nombre: Administrador
+Contraseña: Administrador
+_______________________________________________________________________________________________________________________________________________________
+Secciones del Navbar funcionales
+
+1. Soporte técnico.
+Para poder solicitar un ticket, el cliente debe crear un usuario completando los datos solicitados en un formulario (Sección Registro).
+
+2. Registro y Login de Usuario
+Después deberá dirigirse a la Sección Login para iniciar sesión como Usuario. Entonces podrá acceder al estado del ticket (seguimiento de su reclamo o solicitud), guardarlo en pdf o eliminarlo. También podrá modificar sus datos, eliminar su cuenta o cerrar sesión.
+
+3. Login de Administrador
+Debe ingresar sus credenciales (Nombre y Contraseña). Es la persona que puede administrar todo el sistema como ser:
+a. Administrar Tickets
+b. Administrar Usuarios
+c. Administrar Administradores (puede crear otros administradores).
+
